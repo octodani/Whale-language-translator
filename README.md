@@ -1,0 +1,2 @@
+# Whale-language-translator
+JavaScript
